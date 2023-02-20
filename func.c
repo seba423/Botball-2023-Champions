@@ -17,7 +17,6 @@ void line_follow(int miliseconds)
         }
     }
 }
-
 void turnDegrees(int deg)
 {
     set_create_total_angle(0);
